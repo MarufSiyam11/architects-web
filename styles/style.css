@@ -164,7 +164,19 @@ box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
 .sponsors-img-container img{
     width: 165px;
 }
-
+footer{
+    width: 1440px;
+height: 100px;
+border-radius: 8px;
+background: #FFF4E7;
+}
+.copy-right{
+    padding: 40px;
+    color:  #424242;
+text-align: center;
+font-weight: 400;
+font-size: 20px;
+}
 
 /* responsive media queries */
 /* mobile device */
