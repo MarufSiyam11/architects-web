@@ -185,6 +185,7 @@ font-size: 20px;
       padding: 20px;
     }  
     nav,
+    footer,
     .features,
     .sponsors-img-container,
     .teams-container,
@@ -209,6 +210,9 @@ font-size: 20px;
 }
 .facts-card-container{
     gap: 20px;
+}
+footer{
+    width: 90%;
 }
   }
   /* tablet or medium device */
